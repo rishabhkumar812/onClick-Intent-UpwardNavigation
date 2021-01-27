@@ -16,3 +16,7 @@ Each screen in your app that's not the main entry point, which are all the scree
 
 To add an Up button, you need to declare which activity is the logical parent in the AndroidManifest.xml file. 
 
+## **Outputs**
+[![ss1.jpg](https://i.postimg.cc/Qd728K8R/ss1.jpg)](https://postimg.cc/Wd2WS3Jn)
+
+[![ss2.jpg](https://i.postimg.cc/HkbNDG3m/ss2.jpg)](https://postimg.cc/3kJ1mcPf)
